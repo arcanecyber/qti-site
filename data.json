@@ -1,0 +1,281 @@
+{
+ "by_country": {
+  "countries": [
+   {
+    "code": "US",
+    "confidence": "low",
+    "name": "United States",
+    "pillars": [
+     {
+      "confidence": null,
+      "name": "Hardware",
+      "pillar": "hardware",
+      "score": 0.0,
+      "weight": 0.4
+     },
+     {
+      "confidence": null,
+      "name": "Investment",
+      "pillar": "investment",
+      "score": 0.0,
+      "weight": 0.2
+     },
+     {
+      "confidence": null,
+      "name": "Publications",
+      "pillar": "publications",
+      "score": 0.0,
+      "weight": 0.15
+     },
+     {
+      "confidence": null,
+      "name": "Quality",
+      "pillar": "citation_quality",
+      "score": 0.0,
+      "weight": 0.15
+     },
+     {
+      "confidence": null,
+      "name": "Patents",
+      "pillar": "patents",
+      "score": 0.0,
+      "weight": 0.05
+     },
+     {
+      "confidence": null,
+      "name": "Quantum Workforce",
+      "pillar": "workforce",
+      "score": 0.0,
+      "weight": 0.05
+     }
+    ],
+    "score": 0.0
+   },
+   {
+    "code": "CN",
+    "confidence": "low",
+    "name": "China",
+    "pillars": [
+     {
+      "confidence": null,
+      "name": "Hardware",
+      "pillar": "hardware",
+      "score": 0.0,
+      "weight": 0.4
+     },
+     {
+      "confidence": null,
+      "name": "Investment",
+      "pillar": "investment",
+      "score": 0.0,
+      "weight": 0.2
+     },
+     {
+      "confidence": null,
+      "name": "Publications",
+      "pillar": "publications",
+      "score": 0.0,
+      "weight": 0.15
+     },
+     {
+      "confidence": null,
+      "name": "Quality",
+      "pillar": "citation_quality",
+      "score": 0.0,
+      "weight": 0.15
+     },
+     {
+      "confidence": null,
+      "name": "Patents",
+      "pillar": "patents",
+      "score": 0.0,
+      "weight": 0.05
+     },
+     {
+      "confidence": null,
+      "name": "Quantum Workforce",
+      "pillar": "workforce",
+      "score": 0.0,
+      "weight": 0.05
+     }
+    ],
+    "score": 0.0
+   },
+   {
+    "code": "EU",
+    "confidence": "low",
+    "name": "European Union",
+    "pillars": [
+     {
+      "confidence": null,
+      "name": "Hardware",
+      "pillar": "hardware",
+      "score": 0.0,
+      "weight": 0.4
+     },
+     {
+      "confidence": null,
+      "name": "Investment",
+      "pillar": "investment",
+      "score": 0.0,
+      "weight": 0.2
+     },
+     {
+      "confidence": null,
+      "name": "Publications",
+      "pillar": "publications",
+      "score": 0.0,
+      "weight": 0.15
+     },
+     {
+      "confidence": null,
+      "name": "Quality",
+      "pillar": "citation_quality",
+      "score": 0.0,
+      "weight": 0.15
+     },
+     {
+      "confidence": null,
+      "name": "Patents",
+      "pillar": "patents",
+      "score": 0.0,
+      "weight": 0.05
+     },
+     {
+      "confidence": null,
+      "name": "Quantum Workforce",
+      "pillar": "workforce",
+      "score": 0.0,
+      "weight": 0.05
+     }
+    ],
+    "score": 0.0
+   },
+   {
+    "code": "RU",
+    "confidence": "low",
+    "name": "Russia",
+    "pillars": [
+     {
+      "confidence": null,
+      "name": "Hardware",
+      "pillar": "hardware",
+      "score": 0.0,
+      "weight": 0.4
+     },
+     {
+      "confidence": null,
+      "name": "Investment",
+      "pillar": "investment",
+      "score": 0.0,
+      "weight": 0.2
+     },
+     {
+      "confidence": null,
+      "name": "Publications",
+      "pillar": "publications",
+      "score": 0.0,
+      "weight": 0.15
+     },
+     {
+      "confidence": null,
+      "name": "Quality",
+      "pillar": "citation_quality",
+      "score": 0.0,
+      "weight": 0.15
+     },
+     {
+      "confidence": null,
+      "name": "Patents",
+      "pillar": "patents",
+      "score": 0.0,
+      "weight": 0.05
+     },
+     {
+      "confidence": null,
+      "name": "Quantum Workforce",
+      "pillar": "workforce",
+      "score": 0.0,
+      "weight": 0.05
+     }
+    ],
+    "score": 0.0
+   }
+  ],
+  "pillars": [
+   {
+    "description": "Best demonstrated logical qubits x gate budget from the country's organisations.",
+    "key": "hardware",
+    "name": "Hardware",
+    "weight": 0.4
+   },
+   {
+    "description": null,
+    "key": "investment",
+    "name": "Investment",
+    "weight": 0.2
+   },
+   {
+    "description": null,
+    "key": "publications",
+    "name": "Publications",
+    "weight": 0.15
+   },
+   {
+    "description": null,
+    "key": "citation_quality",
+    "name": "Quality",
+    "weight": 0.15
+   },
+   {
+    "description": null,
+    "key": "patents",
+    "name": "Patents",
+    "weight": 0.05
+   },
+   {
+    "description": null,
+    "key": "workforce",
+    "name": "Quantum Workforce",
+    "weight": 0.05
+   }
+  ]
+ },
+ "gap": [
+  {
+   "current": null,
+   "field": "quantum_ai",
+   "kind": "benefit",
+   "name": "Quantum-AI",
+   "progress": null,
+   "required": null
+  },
+  {
+   "current": null,
+   "field": "materials_science",
+   "kind": "benefit",
+   "name": "Materials science",
+   "progress": null,
+   "required": null
+  },
+  {
+   "current": null,
+   "field": "drug_discovery",
+   "kind": "benefit",
+   "name": "Drug discovery",
+   "progress": null,
+   "required": null
+  },
+  {
+   "current": null,
+   "field": "cryptography",
+   "kind": "risk",
+   "name": "Cryptography",
+   "progress": null,
+   "required": null
+  }
+ ],
+ "generated_at": "2026-11-27 16:20:14.313695+00:00",
+ "methodology_version": "0.1",
+ "sample_data": false
+}
