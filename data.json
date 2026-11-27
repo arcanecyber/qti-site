@@ -3,7 +3,7 @@
   "countries": [
    {
     "code": "US",
-    "confidence": "low",
+    "confidence": null,
     "name": "United States",
     "pillars": [
      {
@@ -53,7 +53,7 @@
    },
    {
     "code": "CN",
-    "confidence": "low",
+    "confidence": null,
     "name": "China",
     "pillars": [
      {
@@ -103,7 +103,7 @@
    },
    {
     "code": "EU",
-    "confidence": "low",
+    "confidence": null,
     "name": "European Union",
     "pillars": [
      {
@@ -153,7 +153,7 @@
    },
    {
     "code": "RU",
-    "confidence": "low",
+    "confidence": null,
     "name": "Russia",
     "pillars": [
      {
@@ -275,7 +275,7 @@
    "required": null
   }
  ],
- "generated_at": "2026-11-27 16:20:14.313695+00:00",
+ "generated_at": "2026-11-27 16:21:14.708479+00:00",
  "methodology_version": "0.1",
  "sample_data": false
 }
